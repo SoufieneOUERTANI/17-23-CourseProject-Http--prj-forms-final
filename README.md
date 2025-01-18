@@ -25,3 +25,9 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+
+## 598. Backend (Firebase) Setup
+
+    https://console.firebase.google.com/project/ng-course-recipe-book-2c961/overview
+    https://ng-course-recipe-book-2c961-default-rtdb.europe-west1.firebasedatabase.app/
